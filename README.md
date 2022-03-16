@@ -1,10 +1,11 @@
 
 <h1 align="center"> ¡Hola! Soy Marcela Beltrán</h1>
 <h2  align="center"> Desarrolladora Front-End</h2>
-<h3  align="center"> Puedes ver mis proyectos en: https://proyectosmarcelabeltran.000webhostapp.com/<br/><br/><br/>
- <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/" >
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+<h3  align="center"> Puedes ver mis proyectos en: https://proyectosmarcelabeltran.000webhostapp.com/<br/><br/>
+ <a href="https://www.linkedin.com/in/marcela-beltr%C3%A1n-rodrigu%C3%A9z-a4394a228/" >
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="40" width="40">
   </a>
+ <br/>
 </h3>
 
 <!--
